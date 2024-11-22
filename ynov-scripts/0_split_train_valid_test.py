@@ -4,7 +4,7 @@
 # Auteurs : Agence dataservices
 # Date : 13/05/2020
 #
-# Ex: poetry run python 0_split_train_valid_test.py -f train_housing.csv --perc_train 70 --perc_valid 30 --perc_test 0
+# Ex: poetry run python 0_split_train_valid_test.py -f ../ynov-data/train_housing.csv --perc_train 80 --perc_valid 20 --perc_test 0
 
 import argparse
 import logging
